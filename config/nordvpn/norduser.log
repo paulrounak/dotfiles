@@ -1,0 +1,46 @@
+2024/06/09 20:30:23.047659 main.go:319: [Info] Daemon has started
+2024/06/09 23:56:34.574192 main.go:155: Received signal:  terminated
+2024/06/09 23:56:34.574632 fileshare.go:44: [Info] Stopping fileshare
+2024/06/09 23:56:34.575863 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/09 23:56:35.076342 main.go:172: Norduser process has stopped
+2024/06/09 23:56:58.638821 main.go:319: [Info] Daemon has started
+2024/06/10 01:46:09.613834 main.go:155: Received signal:  terminated
+2024/06/10 01:46:09.614003 fileshare.go:44: [Info] Stopping fileshare
+2024/06/10 01:46:09.614334 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/10 01:46:10.115253 main.go:172: Norduser process has stopped
+2024/06/10 10:35:43.437598 main.go:319: [Info] Daemon has started
+2024/06/10 10:36:38.487327 main.go:155: Received signal:  terminated
+2024/06/10 10:36:38.487487 fileshare.go:44: [Info] Stopping fileshare
+2024/06/10 10:36:38.487819 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/10 10:36:38.988104 main.go:172: Norduser process has stopped
+2024/06/10 10:37:12.396089 main.go:319: [Info] Daemon has started
+2024/06/10 10:40:50.699865 main.go:155: Received signal:  terminated
+2024/06/10 10:40:50.700117 fileshare.go:44: [Info] Stopping fileshare
+2024/06/10 10:40:50.700522 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/10 10:40:51.201352 main.go:172: Norduser process has stopped
+2024/06/10 10:41:13.071741 main.go:319: [Info] Daemon has started
+2024/06/10 11:05:43.560138 main.go:155: Received signal:  terminated
+2024/06/10 11:05:43.560312 fileshare.go:44: [Info] Stopping fileshare
+2024/06/10 11:05:43.560681 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/10 11:05:44.061264 main.go:172: Norduser process has stopped
+2024/06/10 11:06:08.767417 main.go:319: [Info] Daemon has started
+2024/06/10 12:13:54.576254 main.go:155: Received signal:  terminated
+2024/06/10 12:13:54.576405 fileshare.go:44: [Info] Stopping fileshare
+2024/06/10 12:13:54.576750 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/10 12:13:55.077811 main.go:172: Norduser process has stopped
+2024/06/10 12:14:34.704033 main.go:319: [Info] Daemon has started
+2024/06/10 12:19:27.020041 main.go:155: Received signal:  terminated
+2024/06/10 12:19:27.020208 fileshare.go:44: [Info] Stopping fileshare
+2024/06/10 12:19:27.020985 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/10 12:19:27.522249 main.go:172: Norduser process has stopped
+2024/06/10 12:19:51.896924 main.go:319: [Info] Daemon has started
+2024/06/10 12:38:23.996577 main.go:155: Received signal:  terminated
+2024/06/10 12:38:23.996775 fileshare.go:44: [Info] Stopping fileshare
+2024/06/10 12:38:23.997209 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/10 12:38:24.497426 main.go:172: Norduser process has stopped
+2024/06/10 15:02:01.327600 main.go:319: [Info] Daemon has started
+2024/06/11 02:48:12.982148 main.go:155: Received signal:  terminated
+2024/06/11 02:48:12.982316 fileshare.go:44: [Info] Stopping fileshare
+2024/06/11 02:48:12.982771 fileshare.go:46: [Error] failed to stop fileshare on shutdown:  stopping fileshare client: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /tmp/fileshare.sock: connect: no such file or directory"
+2024/06/11 02:48:13.483184 main.go:172: Norduser process has stopped
+2024/06/11 10:52:00.369087 main.go:319: [Info] Daemon has started

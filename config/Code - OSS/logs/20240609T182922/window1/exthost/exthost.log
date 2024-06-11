@@ -1,0 +1,10 @@
+2024-06-09 18:29:23.765 [info] Extension host with pid 10550 started
+2024-06-09 18:29:23.790 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-09 18:29:23.796 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-09 18:29:23.818 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-09 18:29:23.897 [info] Eager extensions activated
+2024-06-09 18:29:23.910 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 18:29:23.912 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 18:29:23.918 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 18:29:50.494 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-09 18:29:50.497 [info] Extension host with pid 10550 exiting with code 0

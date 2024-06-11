@@ -1,0 +1,10 @@
+2024-06-09 10:43:39.285 [info] Extension host with pid 5368 started
+2024-06-09 10:43:39.297 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-09 10:43:39.302 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-09 10:43:39.317 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-09 10:43:39.339 [info] Eager extensions activated
+2024-06-09 10:43:39.361 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 10:43:39.363 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 10:43:39.370 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 10:43:41.984 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-09 10:43:41.988 [info] Extension host with pid 5368 exiting with code 0
