@@ -28,7 +28,7 @@ Feel free to use these dotfiles as you wish! Drop a star if you like it!
 
 4. Create default directories.
     ```sh
-    mkdir -p "$HOME"/.config'
+    mkdir -p "$HOME"/.config
     mkdir -p "$HOME"/Pictures/wallpapers
     mkdir -p  /usr/local/bin
     mkdir -p  /usr/share/themes
