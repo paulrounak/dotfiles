@@ -18,7 +18,7 @@
 2. Install an AUR helper (for example, `yay` in `"$HOME"/.srcs`).
     ```sh
     git clone https://aur.archlinux.org/yay.git "$HOME"/.srcs/yay
-	  cd "$HOME"/.srcs/yay/ && makepkg -si
+    cd "$HOME"/.srcs/yay/ && makepkg -si
     ```
 
 3. Install dependencies.
