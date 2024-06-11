@@ -1,5 +1,5 @@
 # Dotfiles
-Feel free to use these dotfiles as you wish! Drop a star if you like it!
+### Feel free to use these dotfiles as you wish! Drop a star if you like it!
 
 # Rice Demo
 ![10-06-2024-11-40-32](https://github.com/duckyfied/dotfiles/assets/172433021/f4480c6f-9907-4b42-8c5e-e528e659b600)
@@ -59,7 +59,7 @@ Feel free to use these dotfiles as you wish! Drop a star if you like it!
     sudo cp -r ./Rose-Pine-GTK-Theme/themes/RosePine-Main-BL/gtk-4.0/* "$HOME"/.config/gtk-4.0
     ```
 
-#Keybinds
+# Keybinds
 
 These are the basic keybinds. Read through the [i3](./config/i3/config) config for more keybinds.
 
