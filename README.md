@@ -12,7 +12,7 @@
 # Installation
 1. Clone this repository.
     ```sh
-    git clone https://github.com/duckyfied/dotfiles.git
+    git clone https://github.com/paulrounak/dotfiles.git
     ```
 
 2. Install an AUR helper (for example, `yay` in `"$HOME"/.srcs`).
